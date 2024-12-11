@@ -1,5 +1,5 @@
 
-# Activités
+# Projet « activités »
 
 Le CRM utilise un formulaire en ligne pour gérer les inscriptions des stagiaires de la formation professionnelle (OFP) aux différentes activités sportives.
 
@@ -119,8 +119,7 @@ Inspirez-vous des maquettes ci-dessous pour réaliser les pages de l'application
 
 ### Couleurs
 
-![Maquette Couleurs](./Notes/Images/couleurs.png)
-
+![Maquette Couleurs](./Notes/Images/couleur.png)
 ### Login
 
 ![Maquette Login](./Notes/Images/login.png)
@@ -131,20 +130,21 @@ Inspirez-vous des maquettes ci-dessous pour réaliser les pages de l'application
 
 ### Ajouter une Activité
 
-![Maquette ajouter activité](./Notes/Images/ajouter%20une%20activité.png)
+![Maquette ajouter activité](./Notes/Images/activity-new.png)
 
 ### Modifier une Activité
 
-![Maquette éditer activité](./Notes/Images/modifier%20une%20activité.png)
+![Maquette éditer activité](./Notes/Images/activity-edit.png)
 
 ### Ajouter une Séance
 
-![Maquette ajouter scéance](./Notes/Images/ajouter%20une%20séance.png)
+![Maquette ajouter scéance](./Notes/Images/seance-new.png)
 
 ### Modifier une Séance
 
-![Maquette éditer scéance](./Notes/Images/modifier%20une%20séance.png)
+![Maquette éditer scéance](./Notes/Images/seance-edit.png)
 
-Le cahier des charges a été réalisé avec la participation de Julien Milletre, stagiaire CDA.
 
-Les maquettes ont été conçues par Julien Milletre, stagiaire CDA.
+
+ >[!IMPORTANT] Le cahier des charges a été réalisé avec la participation de Julien Milletre, stagiaire CDA. Les maquettes ont été conçues par Julien Milletre, stagiaire CDA.
+
